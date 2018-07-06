@@ -1,0 +1,1065 @@
+Date: 3/7/2018
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000000    10.0.47.2             10.0.47.1             DHCP     342    DHCP Request  - Transaction ID 0x26647217
+
+Frame 1: 342 bytes on wire (2736 bits), 342 bytes captured (2736 bits) on interface 0
+Ethernet II, Src: fa:16:3e:94:7c:0d (fa:16:3e:94:7c:0d), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 10.0.47.2 (10.0.47.2), Dst: 10.0.47.1 (10.0.47.1)
+User Datagram Protocol, Src Port: 68 (68), Dst Port: 67 (67)
+Bootstrap Protocol (Request)
+
+0000  f4 4d 30 49 1e 01 fa 16 3e 94 7c 0d 08 00 45 00   .M0I....>.|...E.
+0010  01 48 bf d9 40 00 40 11 07 c9 0a 00 2f 02 0a 00   .H..@.@...../...
+0020  2f 01 00 44 00 43 01 34 73 48 01 01 06 00 26 64   /..D.C.4sH....&d
+0030  72 17 00 00 00 00 0a 00 2f 02 00 00 00 00 00 00   r......./.......
+0040  00 00 00 00 00 00 fa 16 3e 94 7c 0d 00 00 00 00   ........>.|.....
+0050  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0060  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0070  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0080  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0090  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00a0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00b0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00c0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00d0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00e0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00f0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0100  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0110  00 00 00 00 00 00 63 82 53 63 35 01 03 0c 06 75   ......c.Sc5....u
+0120  62 75 6e 74 75 37 12 01 1c 02 03 0f 06 77 0c 2c   buntu7.......w.,
+0130  2f 1a 79 2a 79 f9 21 fc 2a ff 00 00 00 00 00 00   /.y*y.!.*.......
+0140  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0150  00 00 00 00 00 00                                 ......
+No.     Time           Source                Destination           Protocol Length Info
+      2 0.000289000    10.0.47.1             10.0.47.2             DHCP     352    DHCP ACK      - Transaction ID 0x26647217
+
+Frame 2: 352 bytes on wire (2816 bits), 352 bytes captured (2816 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: fa:16:3e:94:7c:0d (fa:16:3e:94:7c:0d)
+Internet Protocol Version 4, Src: 10.0.47.1 (10.0.47.1), Dst: 10.0.47.2 (10.0.47.2)
+User Datagram Protocol, Src Port: 67 (67), Dst Port: 68 (68)
+Bootstrap Protocol (ACK)
+
+0000  fa 16 3e 94 7c 0d f4 4d 30 49 1e 01 08 00 45 c0   ..>.|..M0I....E.
+0010  01 52 74 cd 00 00 40 11 92 0b 0a 00 2f 01 0a 00   .Rt...@...../...
+0020  2f 02 00 43 00 44 01 3e b9 c5 02 01 06 00 26 64   /..C.D.>......&d
+0030  72 17 00 00 00 00 0a 00 2f 02 0a 00 2f 02 0a 00   r......./.../...
+0040  2f 01 00 00 00 00 fa 16 3e 94 7c 0d 00 00 00 00   /.......>.|.....
+0050  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0060  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0070  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0080  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0090  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00a0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00b0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00c0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00d0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00e0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00f0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0100  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0110  00 00 00 00 00 00 63 82 53 63 35 01 05 36 04 0a   ......c.Sc5..6..
+0120  00 2f 01 33 04 00 00 00 78 3a 04 00 00 00 35 3b   ./.3....x:....5;
+0130  04 00 00 00 62 01 04 ff ff ff 00 1c 04 0a 00 2f   ....b........../
+0140  ff 03 04 0a 00 2f 01 06 04 0a 00 2f 01 0f 09 6e   ...../...../...n
+0150  6f 76 61 6c 6f 63 61 6c 0c 05 61 6a 61 79 31 ff   ovalocal..ajay1.
+No.     Time           Source                Destination           Protocol Length Info
+      5 11.180300000   192.168.81.151        172.217.17.142        TLSv1.2  112    Application Data
+
+Frame 5: 112 bytes on wire (896 bits), 112 bytes captured (896 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 172.217.17.142 (172.217.17.142)
+Transmission Control Protocol, Src Port: 51904 (51904), Dst Port: 443 (443), Seq: 1, Ack: 1, Len: 46
+Secure Sockets Layer
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 62 61 7d 40 00 40 06 08 72 c0 a8 51 97 ac d9   .ba}@.@..r..Q...
+0020  11 8e ca c0 01 bb 90 42 2e d9 3f 19 19 e2 80 18   .......B..?.....
+0030  01 ad d0 fb 00 00 01 01 08 0a 00 4d 09 b6 39 c5   ...........M..9.
+0040  ea f1 17 03 03 00 29 00 00 00 00 00 00 00 2a 64   ......).......*d
+0050  47 7c d4 1e b7 c3 9a 8a 85 66 3b 05 68 f3 43 c3   G|.......f;.h.C.
+0060  a0 27 34 81 32 dc f9 8c d5 0e 85 b8 c6 03 62 b0   .'4.2.........b.
+No.     Time           Source                Destination           Protocol Length Info
+      6 11.618109000   172.217.17.142        192.168.81.151        TLSv1.2  112    Application Data
+
+Frame 6: 112 bytes on wire (896 bits), 112 bytes captured (896 bits) on interface 0
+Ethernet II, Src: BestItWo_01:d1:64 (00:1e:a6:01:d1:64), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 172.217.17.142 (172.217.17.142), Dst: 192.168.81.151 (192.168.81.151)
+Transmission Control Protocol, Src Port: 443 (443), Dst Port: 51904 (51904), Seq: 1, Ack: 47, Len: 46
+Secure Sockets Layer
+
+0000  f4 4d 30 49 1e 01 00 1e a6 01 d1 64 08 00 45 00   .M0I.......d..E.
+0010  00 62 65 6f 00 00 2f 06 55 80 ac d9 11 8e c0 a8   .beo../.U.......
+0020  51 97 01 bb ca c0 3f 19 19 e2 90 42 2f 07 80 18   Q.....?....B/...
+0030  05 23 8a 9b 00 00 01 01 08 0a 39 c6 d1 6b 00 4d   .#........9..k.M
+0040  09 b6 17 03 03 00 29 00 00 00 00 00 00 00 0d 28   ......)........(
+0050  05 f6 a0 5e 6c 78 c1 02 fb a3 b3 00 06 27 2e 7e   ...^lx.......'.~
+0060  67 e6 e4 e8 25 80 f4 2c ac 20 7e aa 4e 50 35 4f   g...%..,. ~.NP5O
+No.     Time           Source                Destination           Protocol Length Info
+      7 11.618141000   192.168.81.151        172.217.17.142        TCP      66     51904→443 [ACK] Seq=47 Ack=47 Win=429 Len=0 TSval=5048867 TSecr=969331051
+
+Frame 7: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 172.217.17.142 (172.217.17.142)
+Transmission Control Protocol, Src Port: 51904 (51904), Dst Port: 443 (443), Seq: 47, Ack: 47, Len: 0
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 34 61 7e 40 00 40 06 08 9f c0 a8 51 97 ac d9   .4a~@.@.....Q...
+0020  11 8e ca c0 01 bb 90 42 2f 07 3f 19 1a 10 80 10   .......B/.?.....
+0030  01 ad d0 cd 00 00 01 01 08 0a 00 4d 0a 23 39 c6   ...........M.#9.
+0040  d1 6b                                             .k
+No.     Time           Source                Destination           Protocol Length Info
+      8 14.037302000   192.168.81.151        172.217.17.142        TLSv1.2  112    Application Data
+
+Frame 8: 112 bytes on wire (896 bits), 112 bytes captured (896 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 172.217.17.142 (172.217.17.142)
+Transmission Control Protocol, Src Port: 51904 (51904), Dst Port: 443 (443), Seq: 47, Ack: 47, Len: 46
+Secure Sockets Layer
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 62 61 7f 40 00 40 06 08 70 c0 a8 51 97 ac d9   .ba.@.@..p..Q...
+0020  11 8e ca c0 01 bb 90 42 2f 07 3f 19 1a 10 80 18   .......B/.?.....
+0030  01 ad d0 fb 00 00 01 01 08 0a 00 4d 0c 80 39 c6   ...........M..9.
+0040  d1 6b 17 03 03 00 29 00 00 00 00 00 00 00 2b da   .k....).......+.
+0050  57 7c 1f 50 d3 87 fb 27 1d b3 df 84 a5 8d 0c 48   W|.P...'.......H
+0060  ce 93 9e 1c 30 66 14 ca fc 52 96 0f 14 b7 95 dd   ....0f...R......
+No.     Time           Source                Destination           Protocol Length Info
+      9 14.037508000   192.168.81.151        172.217.17.142        TLSv1.2  97     Encrypted Alert
+
+Frame 9: 97 bytes on wire (776 bits), 97 bytes captured (776 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 172.217.17.142 (172.217.17.142)
+Transmission Control Protocol, Src Port: 51904 (51904), Dst Port: 443 (443), Seq: 93, Ack: 47, Len: 31
+Secure Sockets Layer
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 53 61 80 40 00 40 06 08 7e c0 a8 51 97 ac d9   .Sa.@.@..~..Q...
+0020  11 8e ca c0 01 bb 90 42 2f 35 3f 19 1a 10 80 18   .......B/5?.....
+0030  01 ad d0 ec 00 00 01 01 08 0a 00 4d 0c 80 39 c6   ...........M..9.
+0040  d1 6b 15 03 03 00 1a 00 00 00 00 00 00 00 2c af   .k............,.
+0050  a0 cf d1 d0 6d 1a d9 f8 aa 9a 00 20 cb ab 63 cf   ....m...... ..c.
+0060  51                                                Q
+No.     Time           Source                Destination           Protocol Length Info
+     10 14.037517000   192.168.81.151        172.217.17.142        TCP      66     51904→443 [FIN, ACK] Seq=124 Ack=47 Win=429 Len=0 TSval=5049472 TSecr=969331051
+
+Frame 10: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 172.217.17.142 (172.217.17.142)
+Transmission Control Protocol, Src Port: 51904 (51904), Dst Port: 443 (443), Seq: 124, Ack: 47, Len: 0
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 34 61 81 40 00 40 06 08 9c c0 a8 51 97 ac d9   .4a.@.@.....Q...
+0020  11 8e ca c0 01 bb 90 42 2f 54 3f 19 1a 10 80 11   .......B/T?.....
+0030  01 ad d0 cd 00 00 01 01 08 0a 00 4d 0c 80 39 c6   ...........M..9.
+0040  d1 6b                                             .k
+
+Date: 4/7/2018No.     Time           Source                Destination           Protocol Length Info
+     11 14.731703000   192.168.81.151        172.217.17.142        TCP      66     [TCP Retransmission] 51904→443 [FIN, ACK] Seq=124 Ack=47 Win=429 Len=0 TSval=5049646 TSecr=969331051
+
+Frame 11: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 172.217.17.142 (172.217.17.142)
+Transmission Control Protocol, Src Port: 51904 (51904), Dst Port: 443 (443), Seq: 124, Ack: 47, Len: 0
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 34 61 82 40 00 40 06 08 9b c0 a8 51 97 ac d9   .4a.@.@.....Q...
+0020  11 8e ca c0 01 bb 90 42 2f 54 3f 19 1a 10 80 11   .......B/T?.....
+0030  01 ad d0 cd 00 00 01 01 08 0a 00 4d 0d 2e 39 c6   ...........M..9.
+0040  d1 6b                                             .k
+No.     Time           Source                Destination           Protocol Length Info
+     12 15.427718000   192.168.81.151        172.217.17.142        TLSv1.2  143    [TCP Retransmission] Application Data, Encrypted Alert
+
+Frame 12: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 172.217.17.142 (172.217.17.142)
+Transmission Control Protocol, Src Port: 51904 (51904), Dst Port: 443 (443), Seq: 47, Ack: 47, Len: 77
+Secure Sockets Layer
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 81 61 83 40 00 40 06 08 4d c0 a8 51 97 ac d9   ..a.@.@..M..Q...
+0020  11 8e ca c0 01 bb 90 42 2f 07 3f 19 1a 10 80 19   .......B/.?.....
+0030  01 ad d1 1a 00 00 01 01 08 0a 00 4d 0d dc 39 c6   ...........M..9.
+0040  d1 6b 17 03 03 00 29 00 00 00 00 00 00 00 2b da   .k....).......+.
+0050  57 7c 1f 50 d3 87 fb 27 1d b3 df 84 a5 8d 0c 48   W|.P...'.......H
+0060  ce 93 9e 1c 30 66 14 ca fc 52 96 0f 14 b7 95 dd   ....0f...R......
+0070  15 03 03 00 1a 00 00 00 00 00 00 00 2c af a0 cf   ............,...
+0080  d1 d0 6d 1a d9 f8 aa 9a 00 20 cb ab 63 cf 51      ..m...... ..c.Q
+No.     Time           Source                Destination           Protocol Length Info
+     13 16.823675000   192.168.81.151        172.217.17.142        TLSv1.2  143    [TCP Retransmission] Application Data, Encrypted Alert
+
+Frame 13: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 172.217.17.142 (172.217.17.142)
+Transmission Control Protocol, Src Port: 51904 (51904), Dst Port: 443 (443), Seq: 47, Ack: 47, Len: 77
+Secure Sockets Layer
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 81 61 84 40 00 40 06 08 4c c0 a8 51 97 ac d9   ..a.@.@..L..Q...
+0020  11 8e ca c0 01 bb 90 42 2f 07 3f 19 1a 10 80 19   .......B/.?.....
+0030  01 ad d1 1a 00 00 01 01 08 0a 00 4d 0f 39 39 c6   ...........M.99.
+0040  d1 6b 17 03 03 00 29 00 00 00 00 00 00 00 2b da   .k....).......+.
+0050  57 7c 1f 50 d3 87 fb 27 1d b3 df 84 a5 8d 0c 48   W|.P...'.......H
+0060  ce 93 9e 1c 30 66 14 ca fc 52 96 0f 14 b7 95 dd   ....0f...R......
+0070  15 03 03 00 1a 00 00 00 00 00 00 00 2c af a0 cf   ............,...
+0080  d1 d0 6d 1a d9 f8 aa 9a 00 20 cb ab 63 cf 51      ..m...... ..c.Q
+No.     Time           Source                Destination           Protocol Length Info
+     14 19.611711000   192.168.81.151        172.217.17.142        TLSv1.2  143    [TCP Retransmission] Application Data, Encrypted Alert
+
+Frame 14: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 172.217.17.142 (172.217.17.142)
+Transmission Control Protocol, Src Port: 51904 (51904), Dst Port: 443 (443), Seq: 47, Ack: 47, Len: 77
+Secure Sockets Layer
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 81 61 85 40 00 40 06 08 4b c0 a8 51 97 ac d9   ..a.@.@..K..Q...
+0020  11 8e ca c0 01 bb 90 42 2f 07 3f 19 1a 10 80 19   .......B/.?.....
+0030  01 ad d1 1a 00 00 01 01 08 0a 00 4d 11 f2 39 c6   ...........M..9.
+0040  d1 6b 17 03 03 00 29 00 00 00 00 00 00 00 2b da   .k....).......+.
+0050  57 7c 1f 50 d3 87 fb 27 1d b3 df 84 a5 8d 0c 48   W|.P...'.......H
+0060  ce 93 9e 1c 30 66 14 ca fc 52 96 0f 14 b7 95 dd   ....0f...R......
+0070  15 03 03 00 1a 00 00 00 00 00 00 00 2c af a0 cf   ............,...
+0080  d1 d0 6d 1a d9 f8 aa 9a 00 20 cb ab 63 cf 51      ..m...... ..c.Q
+No.     Time           Source                Destination           Protocol Length Info
+     15 25.187717000   192.168.81.151        172.217.17.142        TLSv1.2  143    [TCP Retransmission] Application Data, Encrypted Alert
+
+Frame 15: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 172.217.17.142 (172.217.17.142)
+Transmission Control Protocol, Src Port: 51904 (51904), Dst Port: 443 (443), Seq: 47, Ack: 47, Len: 77
+Secure Sockets Layer
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 81 61 86 40 00 40 06 08 4a c0 a8 51 97 ac d9   ..a.@.@..J..Q...
+0020  11 8e ca c0 01 bb 90 42 2f 07 3f 19 1a 10 80 19   .......B/.?.....
+0030  01 ad d1 1a 00 00 01 01 08 0a 00 4d 17 64 39 c6   ...........M.d9.
+0040  d1 6b 17 03 03 00 29 00 00 00 00 00 00 00 2b da   .k....).......+.
+0050  57 7c 1f 50 d3 87 fb 27 1d b3 df 84 a5 8d 0c 48   W|.P...'.......H
+0060  ce 93 9e 1c 30 66 14 ca fc 52 96 0f 14 b7 95 dd   ....0f...R......
+0070  15 03 03 00 1a 00 00 00 00 00 00 00 2c af a0 cf   ............,...
+0080  d1 d0 6d 1a d9 f8 aa 9a 00 20 cb ab 63 cf 51      ..m...... ..c.Q
+No.     Time           Source                Destination           Protocol Length Info
+     16 35.028350000   192.168.81.151        192.168.81.101        DNS      84     Standard query 0x55ab  A productsearch.ubuntu.com
+
+Frame 16: 84 bytes on wire (672 bits), 84 bytes captured (672 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 192.168.81.101 (192.168.81.101)
+User Datagram Protocol, Src Port: 13674 (13674), Dst Port: 53 (53)
+Domain Name System (query)
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 46 9d 06 40 00 40 11 79 53 c0 a8 51 97 c0 a8   .F..@.@.yS..Q...
+0020  51 65 35 6a 00 35 00 32 24 91 55 ab 01 00 00 01   Qe5j.5.2$.U.....
+0030  00 00 00 00 00 00 0d 70 72 6f 64 75 63 74 73 65   .......productse
+0040  61 72 63 68 06 75 62 75 6e 74 75 03 63 6f 6d 00   arch.ubuntu.com.
+0050  00 01 00 01                                       ....
+No.     Time           Source                Destination           Protocol Length Info
+     17 35.028377000   192.168.81.151        192.168.81.101        DNS      84     Standard query 0xcd04  AAAA productsearch.ubuntu.com
+
+Frame 17: 84 bytes on wire (672 bits), 84 bytes captured (672 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 192.168.81.101 (192.168.81.101)
+User Datagram Protocol, Src Port: 38173 (38173), Dst Port: 53 (53)
+Domain Name System (query)
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 46 9d 07 40 00 40 11 79 52 c0 a8 51 97 c0 a8   .F..@.@.yR..Q...
+0020  51 65 95 1d 00 35 00 32 24 91 cd 04 01 00 00 01   Qe...5.2$.......
+0030  00 00 00 00 00 00 0d 70 72 6f 64 75 63 74 73 65   .......productse
+0040  61 72 63 68 06 75 62 75 6e 74 75 03 63 6f 6d 00   arch.ubuntu.com.
+0050  00 1c 00 01                                       ....
+No.     Time           Source                Destination           Protocol Length Info
+     18 35.081050000   192.168.81.101        192.168.81.151        DNS      145    Standard query response 0xcd04 No such name
+
+Frame 18: 145 bytes on wire (1160 bits), 145 bytes captured (1160 bits) on interface 0
+Ethernet II, Src: BestItWo_01:d1:64 (00:1e:a6:01:d1:64), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 192.168.81.101 (192.168.81.101), Dst: 192.168.81.151 (192.168.81.151)
+User Datagram Protocol, Src Port: 53 (53), Dst Port: 38173 (38173)
+Domain Name System (response)
+
+0000  f4 4d 30 49 1e 01 00 1e a6 01 d1 64 08 00 45 00   .M0I.......d..E.
+0010  00 83 47 fc 00 00 40 11 0e 21 c0 a8 51 65 c0 a8   ..G...@..!..Qe..
+0020  51 97 00 35 95 1d 00 6f 45 92 cd 04 81 83 00 01   Q..5...oE.......
+0030  00 00 00 01 00 00 0d 70 72 6f 64 75 63 74 73 65   .......productse
+0040  61 72 63 68 06 75 62 75 6e 74 75 03 63 6f 6d 00   arch.ubuntu.com.
+0050  00 1c 00 01 c0 1a 00 06 00 01 00 00 0d f2 00 31   ...............1
+0060  03 6e 73 31 09 63 61 6e 6f 6e 69 63 61 6c c0 21   .ns1.canonical.!
+0070  0a 68 6f 73 74 6d 61 73 74 65 72 c0 3a 78 48 69   .hostmaster.:xHi
+0080  d7 00 00 2a 30 00 00 0e 10 00 09 3a 80 00 00 0e   ...*0......:....
+0090  10                                                .
+No.     Time           Source                Destination           Protocol Length Info
+     19 36.339705000   192.168.81.151        172.217.17.142        TLSv1.2  143    [TCP Retransmission] Application Data, Encrypted Alert
+
+Frame 19: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 172.217.17.142 (172.217.17.142)
+Transmission Control Protocol, Src Port: 51904 (51904), Dst Port: 443 (443), Seq: 47, Ack: 47, Len: 77
+Secure Sockets Layer
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 81 61 87 40 00 40 06 08 49 c0 a8 51 97 ac d9   ..a.@.@..I..Q...
+0020  11 8e ca c0 01 bb 90 42 2f 07 3f 19 1a 10 80 19   .......B/.?.....
+0030  01 ad d1 1a 00 00 01 01 08 0a 00 4d 22 48 39 c6   ...........M"H9.
+0040  d1 6b 17 03 03 00 29 00 00 00 00 00 00 00 2b da   .k....).......+.
+0050  57 7c 1f 50 d3 87 fb 27 1d b3 df 84 a5 8d 0c 48   W|.P...'.......H
+0060  ce 93 9e 1c 30 66 14 ca fc 52 96 0f 14 b7 95 dd   ....0f...R......
+0070  15 03 03 00 1a 00 00 00 00 00 00 00 2c af a0 cf   ............,...
+0080  d1 d0 6d 1a d9 f8 aa 9a 00 20 cb ab 63 cf 51      ..m...... ..c.Q
+No.     Time           Source                Destination           Protocol Length Info
+     20 40.028475000   192.168.81.151        192.168.81.101        DNS      84     Standard query 0x55ab  A productsearch.ubuntu.com
+
+Frame 20: 84 bytes on wire (672 bits), 84 bytes captured (672 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 192.168.81.101 (192.168.81.101)
+User Datagram Protocol, Src Port: 13674 (13674), Dst Port: 53 (53)
+Domain Name System (query)
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 46 a1 8e 40 00 40 11 74 cb c0 a8 51 97 c0 a8   .F..@.@.t...Q...
+0020  51 65 35 6a 00 35 00 32 24 91 55 ab 01 00 00 01   Qe5j.5.2$.U.....
+0030  00 00 00 00 00 00 0d 70 72 6f 64 75 63 74 73 65   .......productse
+0040  61 72 63 68 06 75 62 75 6e 74 75 03 63 6f 6d 00   arch.ubuntu.com.
+0050  00 01 00 01                                       ....
+
+Date: 5/7/2018No.     Time           Source                Destination           Protocol Length Info
+     21 40.093033000   192.168.81.101        192.168.81.151        DNS      145    Standard query response 0x55ab No such name
+
+Frame 21: 145 bytes on wire (1160 bits), 145 bytes captured (1160 bits) on interface 0
+Ethernet II, Src: BestItWo_01:d1:64 (00:1e:a6:01:d1:64), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 192.168.81.101 (192.168.81.101), Dst: 192.168.81.151 (192.168.81.151)
+User Datagram Protocol, Src Port: 53 (53), Dst Port: 13674 (13674)
+Domain Name System (response)
+
+0000  f4 4d 30 49 1e 01 00 1e a6 01 d1 64 08 00 45 00   .M0I.......d..E.
+0010  00 83 47 fe 00 00 40 11 0e 1f c0 a8 51 65 c0 a8   ..G...@.....Qe..
+0020  51 97 00 35 35 6a 00 6f 1c 9f 55 ab 81 83 00 01   Q..55j.o..U.....
+0030  00 00 00 01 00 00 0d 70 72 6f 64 75 63 74 73 65   .......productse
+0040  61 72 63 68 06 75 62 75 6e 74 75 03 63 6f 6d 00   arch.ubuntu.com.
+0050  00 01 00 01 c0 1a 00 06 00 01 00 00 0e 0d 00 31   ...............1
+0060  03 6e 73 31 09 63 61 6e 6f 6e 69 63 61 6c c0 21   .ns1.canonical.!
+0070  0a 68 6f 73 74 6d 61 73 74 65 72 c0 3a 78 48 69   .hostmaster.:xHi
+0080  d7 00 00 2a 30 00 00 0e 10 00 09 3a 80 00 00 0e   ...*0......:....
+0090  10                                                .
+No.     Time           Source                Destination           Protocol Length Info
+     22 40.093232000   192.168.81.151        192.168.81.101        DNS      84     Standard query 0xfdff  AAAA productsearch.ubuntu.com
+
+Frame 22: 84 bytes on wire (672 bits), 84 bytes captured (672 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 192.168.81.101 (192.168.81.101)
+User Datagram Protocol, Src Port: 33446 (33446), Dst Port: 53 (53)
+Domain Name System (query)
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 46 a1 90 40 00 40 11 74 c9 c0 a8 51 97 c0 a8   .F..@.@.t...Q...
+0020  51 65 82 a6 00 35 00 32 24 91 fd ff 01 00 00 01   Qe...5.2$.......
+0030  00 00 00 00 00 00 0d 70 72 6f 64 75 63 74 73 65   .......productse
+0040  61 72 63 68 06 75 62 75 6e 74 75 03 63 6f 6d 00   arch.ubuntu.com.
+0050  00 1c 00 01                                       ....
+No.     Time           Source                Destination           Protocol Length Info
+     23 40.154671000   192.168.81.101        192.168.81.151        DNS      145    Standard query response 0xfdff No such name
+
+Frame 23: 145 bytes on wire (1160 bits), 145 bytes captured (1160 bits) on interface 0
+Ethernet II, Src: BestItWo_01:d1:64 (00:1e:a6:01:d1:64), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 192.168.81.101 (192.168.81.101), Dst: 192.168.81.151 (192.168.81.151)
+User Datagram Protocol, Src Port: 53 (53), Dst Port: 33446 (33446)
+Domain Name System (response)
+
+0000  f4 4d 30 49 1e 01 00 1e a6 01 d1 64 08 00 45 00   .M0I.......d..E.
+0010  00 83 48 00 00 00 40 11 0e 1d c0 a8 51 65 c0 a8   ..H...@.....Qe..
+0020  51 97 00 35 82 a6 00 6f 26 f3 fd ff 81 83 00 01   Q..5...o&.......
+0030  00 00 00 01 00 00 0d 70 72 6f 64 75 63 74 73 65   .......productse
+0040  61 72 63 68 06 75 62 75 6e 74 75 03 63 6f 6d 00   arch.ubuntu.com.
+0050  00 1c 00 01 c0 1a 00 06 00 01 00 00 0e 0d 00 31   ...............1
+0060  03 6e 73 31 09 63 61 6e 6f 6e 69 63 61 6c c0 21   .ns1.canonical.!
+0070  0a 68 6f 73 74 6d 61 73 74 65 72 c0 3a 78 48 69   .hostmaster.:xHi
+0080  d7 00 00 2a 30 00 00 0e 10 00 09 3a 80 00 00 0e   ...*0......:....
+0090  10                                                .
+No.     Time           Source                Destination           Protocol Length Info
+     24 40.154892000   192.168.81.151        192.168.81.101        DNS      84     Standard query 0xa3a4  A productsearch.ubuntu.com
+
+Frame 24: 84 bytes on wire (672 bits), 84 bytes captured (672 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 192.168.81.101 (192.168.81.101)
+User Datagram Protocol, Src Port: 23447 (23447), Dst Port: 53 (53)
+Domain Name System (query)
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 46 a1 9b 40 00 40 11 74 be c0 a8 51 97 c0 a8   .F..@.@.t...Q...
+0020  51 65 5b 97 00 35 00 32 24 91 a3 a4 01 00 00 01   Qe[..5.2$.......
+0030  00 00 00 00 00 00 0d 70 72 6f 64 75 63 74 73 65   .......productse
+0040  61 72 63 68 06 75 62 75 6e 74 75 03 63 6f 6d 00   arch.ubuntu.com.
+0050  00 01 00 01                                       ....
+No.     Time           Source                Destination           Protocol Length Info
+     25 40.214735000   192.168.81.101        192.168.81.151        DNS      145    Standard query response 0xa3a4 No such name
+
+Frame 25: 145 bytes on wire (1160 bits), 145 bytes captured (1160 bits) on interface 0
+Ethernet II, Src: BestItWo_01:d1:64 (00:1e:a6:01:d1:64), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 192.168.81.101 (192.168.81.101), Dst: 192.168.81.151 (192.168.81.151)
+User Datagram Protocol, Src Port: 53 (53), Dst Port: 23447 (23447)
+Domain Name System (response)
+
+0000  f4 4d 30 49 1e 01 00 1e a6 01 d1 64 08 00 45 00   .M0I.......d..E.
+0010  00 83 48 02 00 00 40 11 0e 1b c0 a8 51 65 c0 a8   ..H...@.....Qe..
+0020  51 97 00 35 5b 97 00 6f a8 78 a3 a4 81 83 00 01   Q..5[..o.x......
+0030  00 00 00 01 00 00 0d 70 72 6f 64 75 63 74 73 65   .......productse
+0040  61 72 63 68 06 75 62 75 6e 74 75 03 63 6f 6d 00   arch.ubuntu.com.
+0050  00 01 00 01 c0 1a 00 06 00 01 00 00 0e 0d 00 31   ...............1
+0060  03 6e 73 31 09 63 61 6e 6f 6e 69 63 61 6c c0 21   .ns1.canonical.!
+0070  0a 68 6f 73 74 6d 61 73 74 65 72 c0 3a 78 48 69   .hostmaster.:xHi
+0080  d7 00 00 2a 30 00 00 0e 10 00 09 3a 80 00 00 0e   ...*0......:....
+0090  10                                                .
+No.     Time           Source                Destination           Protocol Length Info
+     26 40.214932000   192.168.81.151        192.168.81.101        DNS      84     Standard query 0x7734  AAAA productsearch.ubuntu.com
+
+Frame 26: 84 bytes on wire (672 bits), 84 bytes captured (672 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 192.168.81.101 (192.168.81.101)
+User Datagram Protocol, Src Port: 19024 (19024), Dst Port: 53 (53)
+Domain Name System (query)
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 46 a1 a5 40 00 40 11 74 b4 c0 a8 51 97 c0 a8   .F..@.@.t...Q...
+0020  51 65 4a 50 00 35 00 32 24 91 77 34 01 00 00 01   QeJP.5.2$.w4....
+0030  00 00 00 00 00 00 0d 70 72 6f 64 75 63 74 73 65   .......productse
+0040  61 72 63 68 06 75 62 75 6e 74 75 03 63 6f 6d 00   arch.ubuntu.com.
+0050  00 1c 00 01                                       ....
+No.     Time           Source                Destination           Protocol Length Info
+     27 40.263248000   192.168.81.101        192.168.81.151        DNS      145    Standard query response 0x7734 No such name
+
+Frame 27: 145 bytes on wire (1160 bits), 145 bytes captured (1160 bits) on interface 0
+Ethernet II, Src: BestItWo_01:d1:64 (00:1e:a6:01:d1:64), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 192.168.81.101 (192.168.81.101), Dst: 192.168.81.151 (192.168.81.151)
+User Datagram Protocol, Src Port: 53 (53), Dst Port: 19024 (19024)
+Domain Name System (response)
+
+0000  f4 4d 30 49 1e 01 00 1e a6 01 d1 64 08 00 45 00   .M0I.......d..E.
+0010  00 83 48 04 00 00 40 11 0e 19 c0 a8 51 65 c0 a8   ..H...@.....Qe..
+0020  51 97 00 35 4a 50 00 6f e6 14 77 34 81 83 00 01   Q..5JP.o..w4....
+0030  00 00 00 01 00 00 0d 70 72 6f 64 75 63 74 73 65   .......productse
+0040  61 72 63 68 06 75 62 75 6e 74 75 03 63 6f 6d 00   arch.ubuntu.com.
+0050  00 1c 00 01 c0 1a 00 06 00 01 00 00 0e 0d 00 31   ...............1
+0060  03 6e 73 31 09 63 61 6e 6f 6e 69 63 61 6c c0 21   .ns1.canonical.!
+0070  0a 68 6f 73 74 6d 61 73 74 65 72 c0 3a 78 48 69   .hostmaster.:xHi
+0080  d7 00 00 2a 30 00 00 0e 10 00 09 3a 80 00 00 0e   ...*0......:....
+0090  10                                                .
+No.     Time           Source                Destination           Protocol Length Info
+     28 41.644223000   66.218.84.140         192.168.81.151        TLSv1.2  1517   Application Data
+
+Frame 28: 1517 bytes on wire (12136 bits), 1517 bytes captured (12136 bits) on interface 0
+Ethernet II, Src: BestItWo_01:d1:64 (00:1e:a6:01:d1:64), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 66.218.84.140 (66.218.84.140), Dst: 192.168.81.151 (192.168.81.151)
+Transmission Control Protocol, Src Port: 443 (443), Dst Port: 41328 (41328), Seq: 1, Ack: 1, Len: 1451
+Secure Sockets Layer
+
+0000  f4 4d 30 49 1e 01 00 1e a6 01 d1 64 08 00 45 00   .M0I.......d..E.
+0010  05 df 9a 41 40 00 2e 06 03 32 42 da 54 8c c0 a8   ...A@....2B.T...
+0020  51 97 01 bb a1 70 a4 ce 09 66 75 7d 4d 68 80 18   Q....p...fu}Mh..
+0030  01 1a af 77 00 00 01 01 08 0a 4a 7d 2a e0 00 4c   ...w......J}*..L
+0040  4c 8b 17 03 03 05 a6 37 d9 c4 ab a1 6e 66 cb 22   L......7....nf."
+0050  74 88 57 9f 07 22 2d b4 a1 c5 1a 52 b4 fd 23 18   t.W.."-....R..#.
+0060  c1 80 d9 91 22 18 16 0e 8c 39 19 61 8e 32 25 04   ...."....9.a.2%.
+0070  53 36 c1 61 9a 0f 9a c8 17 8e e3 ed a3 e1 b9 d9   S6.a............
+0080  4d ec e9 4d 16 bc 1e 14 3b 4d 4e ba fd 04 a3 a9   M..M....;MN.....
+0090  b0 8c 12 2b 29 c0 88 f9 72 7b cf 9c ea ae 24 fe   ...+)...r{....$.
+00a0  b1 75 e5 41 06 61 63 3c e7 8e c8 02 fe 87 df 6f   .u.A.ac<.......o
+00b0  42 8e cc 25 e2 07 db 4e 78 b8 0d 20 4c 12 df dd   B..%...Nx.. L...
+00c0  8f bc 4b 0f 2b d6 45 74 ea fe 74 41 1b 7d 6e e8   ..K.+.Et..tA.}n.
+00d0  4e 66 ae 21 91 a7 49 2e a1 e4 74 d3 44 75 d8 f2   Nf.!..I...t.Du..
+00e0  4c 75 41 94 ac e1 bb 43 43 3d 8f dc 9f cc 59 1b   LuA....CC=....Y.
+00f0  28 13 7c 40 ae 26 c4 b0 37 75 e4 f4 23 b9 d3 3d   (.|@.&..7u..#..=
+0100  21 cd 0f 6b f3 a6 19 85 d8 b9 a4 1c 1a e1 6a 4f   !..k..........jO
+0110  f5 0b 62 43 51 cc 15 7d e1 51 9c f1 49 fd 85 2f   ..bCQ..}.Q..I../
+0120  ce e7 8b 3a 3d c2 86 16 89 7f f5 0e f9 69 a6 0f   ...:=........i..
+0130  a9 0a c6 7f 14 e9 9e 5d 68 f0 1c 20 dd d2 80 ef   .......]h.. ....
+0140  74 21 c5 c0 51 b1 93 2e a7 72 b6 9d 4c a7 1d a4   t!..Q....r..L...
+0150  7b b8 b8 af 5c e4 48 12 25 80 9a d3 d3 7f a2 52   {...\.H.%......R
+0160  c7 64 a7 a1 08 61 eb a4 b0 47 d5 d5 1e 61 34 6a   .d...a...G...a4j
+0170  2d 9e bb f9 d8 b3 b7 c5 ab 88 d4 f9 4f 2f 22 e7   -...........O/".
+0180  98 bd 66 b7 aa 3e 03 a3 c0 32 12 2a 82 13 b9 01   ..f..>...2.*....
+0190  e1 0b 0b 31 7d 37 09 55 7f b3 c7 77 b3 ba 25 f5   ...1}7.U...w..%.
+01a0  ff 94 cd c9 6b cc d6 e3 46 63 d7 5d 9a a9 b5 63   ....k...Fc.]...c
+01b0  72 1e 73 53 9e 45 f5 5e a1 a7 a6 0e 77 96 6b 3d   r.sS.E.^....w.k=
+01c0  bb 01 b4 fe 2b 35 ee 5d 35 ba 3c df 63 48 21 87   ....+5.]5.<.cH!.
+01d0  b6 97 0d f8 46 d6 b1 a4 41 57 02 e8 3c 4e 60 7d   ....F...AW..<N`}
+01e0  10 b5 37 25 39 eb 13 af b1 01 88 e7 50 21 8e 3f   ..7%9.......P!.?
+01f0  eb 44 fc b2 0c 84 65 55 de 1b 73 3e c6 a5 0d 4e   .D....eU..s>...N
+0200  91 62 f4 2a 4f f6 58 8c 45 04 e1 60 5d 22 a8 b1   .b.*O.X.E..`]"..
+0210  2f 47 ca 52 52 14 85 2f aa c1 c1 c1 c1 3a c8 04   /G.RR../.....:..
+0220  0c 10 41 1d 37 40 13 7c 14 97 37 4c 6d d4 c0 5a   ..A.7@.|..7Lm..Z
+0230  ab 8a 73 f2 c1 ab 10 81 76 5e e6 46 b0 15 c8 48   ..s.....v^.F...H
+0240  66 da 2f 3c 31 e8 2e 98 d3 f8 9d 35 41 7d a4 24   f./<1......5A}.$
+0250  eb 45 6b 11 02 1c 73 f9 74 18 8d 25 be d8 02 63   .Ek...s.t..%...c
+0260  aa d3 e8 44 24 c5 e9 09 4b 33 58 3d a5 b4 8c ce   ...D$...K3X=....
+0270  fb 8a 02 78 ca 5a 10 17 b5 ce 72 b7 79 b4 53 22   ...x.Z....r.y.S"
+0280  0b 98 e6 67 11 63 e5 66 d5 55 21 ed dc b7 be 80   ...g.c.f.U!.....
+0290  0b b2 50 91 ed 9d f4 26 72 bb 80 47 3d 75 c4 b0   ..P....&r..G=u..
+02a0  c2 b5 32 aa cb 13 a8 54 a0 29 e1 7c 8a 0a d0 a4   ..2....T.).|....
+02b0  34 0d 45 0a 80 f9 96 1a 62 8c 2f 79 a6 3b b0 c0   4.E.....b./y.;..
+02c0  f4 28 60 ad fc ac bb a1 21 80 dc 92 f4 f7 4e cf   .(`.....!.....N.
+02d0  ef 29 1b 3d a7 7e 19 57 ab 54 31 f2 da 74 9b 2e   .).=.~.W.T1..t..
+02e0  b3 ec a1 72 3f 38 2c 6a ad 97 75 cc 57 53 32 ad   ...r?8,j..u.WS2.
+02f0  49 f7 a2 5d aa 38 59 ad 79 85 47 c2 ed d1 82 e0   I..].8Y.y.G.....
+0300  02 4f b6 3c 7a 55 c6 fd f5 2f b5 db 55 ba d3 c6   .O.<zU.../..U...
+0310  91 e8 bb f3 79 b4 19 4a ca b8 dc af 08 e6 f0 80   ....y..J........
+0320  ac cc 40 30 4d fa 4d 9b 79 36 e8 74 19 88 cb 83   ..@0M.M.y6.t....
+0330  f4 ac 36 e3 38 9b 78 b1 24 8f f3 07 92 64 3e 3d   ..6.8.x.$....d>=
+0340  43 f8 34 b9 05 a9 13 1c 4d fc d4 a7 83 3c 33 c5   C.4.....M....<3.
+0350  b9 de a8 2d 28 a3 59 0b e7 bf ba 36 61 8d 5e d2   ...-(.Y....6a.^.
+0360  8b df 1a f6 6a ee 31 56 41 09 04 e5 4a 3b 7a 93   ....j.1VA...J;z.
+0370  e6 35 4b 41 bd f3 fa f5 50 39 7b df 7c 24 4d 0b   .5KA....P9{.|$M.
+0380  8b 2c bf 1a 42 aa 53 61 6c 34 25 78 7a c4 7b 44   .,..B.Sal4%xz.{D
+0390  81 ee 4d f6 c3 bd d5 b4 83 af d7 94 15 d0 74 e0   ..M...........t.
+03a0  16 62 19 37 56 bc f5 aa cc 3a 62 6c c4 d7 02 25   .b.7V....:bl...%
+03b0  e4 05 86 f3 8b da 13 7b c8 16 e9 f4 0c 82 b0 a7   .......{........
+03c0  41 96 41 77 f3 d3 e5 77 32 86 69 00 08 68 a8 b0   A.Aw...w2.i..h..
+03d0  a1 c1 83 a9 10 1b 6f d6 84 b0 e3 7d c0 0c 69 f6   ......o....}..i.
+03e0  72 c0 72 06 9f ef b9 64 ce ec 76 ca 18 9e ff e7   r.r....d..v.....
+03f0  e6 48 0a ac 3a bd b2 e8 d6 64 ab 39 56 06 05 60   .H..:....d.9V..`
+0400  94 c7 d0 d3 90 d7 28 56 15 2c 8a 02 b9 89 01 7c   ......(V.,.....|
+0410  a8 6a 26 d0 d4 fb f2 ce 26 80 f6 28 e1 e6 f0 9b   .j&.....&..(....
+0420  0a 85 89 7e c8 4f d7 32 19 cb 37 19 fe 9a 96 15   ...~.O.2..7.....
+0430  26 e9 58 b7 bb f8 e3 91 22 dc 48 c3 c4 bb f1 2c   &.X.....".H....,
+0440  55 96 ee 2c 39 b9 b7 b3 37 0d 56 c1 a7 b7 6e 36   U..,9...7.V...n6
+0450  b0 1d bc 81 23 4b 75 62 2b b5 4d b5 48 73 9d c7   ....#Kub+.M.Hs..
+0460  2e 2a 13 23 4b 1f 5c 83 4f e9 80 a2 1e 83 55 fb   .*.#K.\.O.....U.
+0470  c6 55 a6 38 7a e6 52 83 d6 ff ce 48 cf 8b d4 fa   .U.8z.R....H....
+0480  3c f1 f7 43 81 83 28 4e ab d6 e5 dd 9c 2e 02 32   <..C..(N.......2
+0490  cf 59 8c e9 81 2d 0b b7 8c aa 9c 59 09 c3 f1 4a   .Y...-.....Y...J
+04a0  39 70 3c 47 5b ea 4f ca c1 33 44 d8 7f 9f d8 19   9p<G[.O..3D.....
+04b0  7f ab de 11 8b 1c 11 4a fe 19 25 15 a9 81 11 df   .......J..%.....
+04c0  5f 4e 63 3d 0a 0b b7 ff fa 4f 58 8b 7d 09 5c 26   _Nc=.....OX.}.\&
+04d0  ad 6f 13 11 a2 30 ed b8 31 ec d6 ed 36 17 50 82   .o...0..1...6.P.
+04e0  01 e7 9f a3 c4 b0 20 ed 50 98 70 2f 4a 17 d6 e3   ...... .P.p/J...
+04f0  c9 91 e3 6f b6 95 a0 d7 ff 95 dc 52 d3 f9 a8 ed   ...o.......R....
+0500  da f5 2d b7 72 9d be d0 80 26 29 f2 02 d2 3d 3a   ..-.r....&)...=:
+0510  34 d4 b0 e3 d5 3d 9a 1b ad be e4 0d 7f d9 6a 97   4....=........j.
+0520  16 13 d2 a4 13 77 e4 32 80 0f a1 42 e5 e6 40 d4   .....w.2...B..@.
+0530  6e 22 85 26 09 ea dc ff b7 56 79 7b ff b9 65 26   n".&.....Vy{..e&
+0540  72 ba e9 60 aa f3 a1 d0 1c 9c 04 3c 60 33 54 f4   r..`.......<`3T.
+0550  de 77 b7 31 14 a0 5f 31 3b c4 d0 a6 a3 53 9c 56   .w.1.._1;....S.V
+0560  79 0d 7d 76 2b 6c aa f9 15 14 a1 66 83 7f a7 eb   y.}v+l.....f....
+0570  7e 5a cb 57 56 80 66 a8 23 65 18 b0 28 2d 46 5a   ~Z.WV.f.#e..(-FZ
+0580  cb 0f 45 16 77 f4 43 63 ab a7 1b 07 55 62 d9 0f   ..E.w.Cc....Ub..
+0590  5b 74 6d f0 15 02 58 34 54 c6 c6 58 6d 08 e9 ac   [tm...X4T..Xm...
+05a0  fc e1 1d c2 fe b3 65 e7 7f 9f 30 a2 6f cb fb b1   ......e...0.o...
+05b0  71 6f 17 31 70 e3 b7 a9 85 59 ed d4 1a a1 2a 21   qo.1p....Y....*!
+05c0  36 ac 64 6b eb db e5 e2 0d a8 c0 19 df 1e b9 51   6.dk...........Q
+05d0  2b 5d 77 ff 69 bc 52 13 b2 1d da f5 9e cc 26 86   +]w.i.R.......&.
+05e0  f8 6b 22 b1 13 47 e5 74 bf 62 33 6a 39            .k"..G.t.b3j9
+No.     Time           Source                Destination           Protocol Length Info
+     29 41.644248000   66.218.84.140         10.0.47.2             TLSv1.2  1517   Application Data
+
+Frame 29: 1517 bytes on wire (12136 bits), 1517 bytes captured (12136 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: fa:16:3e:94:7c:0d (fa:16:3e:94:7c:0d)
+Internet Protocol Version 4, Src: 66.218.84.140 (66.218.84.140), Dst: 10.0.47.2 (10.0.47.2)
+Transmission Control Protocol, Src Port: 443 (443), Dst Port: 41328 (41328), Seq: 1, Ack: 1, Len: 1451
+Secure Sockets Layer
+
+0000  fa 16 3e 94 7c 0d f4 4d 30 49 1e 01 08 00 45 00   ..>.|..M0I....E.
+0010  05 df 9a 41 40 00 2d 06 dd 6f 42 da 54 8c 0a 00   ...A@.-..oB.T...
+0020  2f 02 01 bb a1 70 a4 ce 09 66 75 7d 4d 68 80 18   /....p...fu}Mh..
+0030  01 1a d6 39 00 00 01 01 08 0a 4a 7d 2a e0 00 4c   ...9......J}*..L
+0040  4c 8b 17 03 03 05 a6 37 d9 c4 ab a1 6e 66 cb 22   L......7....nf."
+0050  74 88 57 9f 07 22 2d b4 a1 c5 1a 52 b4 fd 23 18   t.W.."-....R..#.
+0060  c1 80 d9 91 22 18 16 0e 8c 39 19 61 8e 32 25 04   ...."....9.a.2%.
+0070  53 36 c1 61 9a 0f 9a c8 17 8e e3 ed a3 e1 b9 d9   S6.a............
+0080  4d ec e9 4d 16 bc 1e 14 3b 4d 4e ba fd 04 a3 a9   M..M....;MN.....
+0090  b0 8c 12 2b 29 c0 88 f9 72 7b cf 9c ea ae 24 fe   ...+)...r{....$.
+00a0  b1 75 e5 41 06 61 63 3c e7 8e c8 02 fe 87 df 6f   .u.A.ac<.......o
+00b0  42 8e cc 25 e2 07 db 4e 78 b8 0d 20 4c 12 df dd   B..%...Nx.. L...
+00c0  8f bc 4b 0f 2b d6 45 74 ea fe 74 41 1b 7d 6e e8   ..K.+.Et..tA.}n.
+00d0  4e 66 ae 21 91 a7 49 2e a1 e4 74 d3 44 75 d8 f2   Nf.!..I...t.Du..
+00e0  4c 75 41 94 ac e1 bb 43 43 3d 8f dc 9f cc 59 1b   LuA....CC=....Y.
+00f0  28 13 7c 40 ae 26 c4 b0 37 75 e4 f4 23 b9 d3 3d   (.|@.&..7u..#..=
+0100  21 cd 0f 6b f3 a6 19 85 d8 b9 a4 1c 1a e1 6a 4f   !..k..........jO
+0110  f5 0b 62 43 51 cc 15 7d e1 51 9c f1 49 fd 85 2f   ..bCQ..}.Q..I../
+0120  ce e7 8b 3a 3d c2 86 16 89 7f f5 0e f9 69 a6 0f   ...:=........i..
+0130  a9 0a c6 7f 14 e9 9e 5d 68 f0 1c 20 dd d2 80 ef   .......]h.. ....
+0140  74 21 c5 c0 51 b1 93 2e a7 72 b6 9d 4c a7 1d a4   t!..Q....r..L...
+0150  7b b8 b8 af 5c e4 48 12 25 80 9a d3 d3 7f a2 52   {...\.H.%......R
+0160  c7 64 a7 a1 08 61 eb a4 b0 47 d5 d5 1e 61 34 6a   .d...a...G...a4j
+0170  2d 9e bb f9 d8 b3 b7 c5 ab 88 d4 f9 4f 2f 22 e7   -...........O/".
+0180  98 bd 66 b7 aa 3e 03 a3 c0 32 12 2a 82 13 b9 01   ..f..>...2.*....
+0190  e1 0b 0b 31 7d 37 09 55 7f b3 c7 77 b3 ba 25 f5   ...1}7.U...w..%.
+01a0  ff 94 cd c9 6b cc d6 e3 46 63 d7 5d 9a a9 b5 63   ....k...Fc.]...c
+01b0  72 1e 73 53 9e 45 f5 5e a1 a7 a6 0e 77 96 6b 3d   r.sS.E.^....w.k=
+01c0  bb 01 b4 fe 2b 35 ee 5d 35 ba 3c df 63 48 21 87   ....+5.]5.<.cH!.
+01d0  b6 97 0d f8 46 d6 b1 a4 41 57 02 e8 3c 4e 60 7d   ....F...AW..<N`}
+01e0  10 b5 37 25 39 eb 13 af b1 01 88 e7 50 21 8e 3f   ..7%9.......P!.?
+01f0  eb 44 fc b2 0c 84 65 55 de 1b 73 3e c6 a5 0d 4e   .D....eU..s>...N
+0200  91 62 f4 2a 4f f6 58 8c 45 04 e1 60 5d 22 a8 b1   .b.*O.X.E..`]"..
+0210  2f 47 ca 52 52 14 85 2f aa c1 c1 c1 c1 3a c8 04   /G.RR../.....:..
+0220  0c 10 41 1d 37 40 13 7c 14 97 37 4c 6d d4 c0 5a   ..A.7@.|..7Lm..Z
+0230  ab 8a 73 f2 c1 ab 10 81 76 5e e6 46 b0 15 c8 48   ..s.....v^.F...H
+0240  66 da 2f 3c 31 e8 2e 98 d3 f8 9d 35 41 7d a4 24   f./<1......5A}.$
+0250  eb 45 6b 11 02 1c 73 f9 74 18 8d 25 be d8 02 63   .Ek...s.t..%...c
+0260  aa d3 e8 44 24 c5 e9 09 4b 33 58 3d a5 b4 8c ce   ...D$...K3X=....
+0270  fb 8a 02 78 ca 5a 10 17 b5 ce 72 b7 79 b4 53 22   ...x.Z....r.y.S"
+0280  0b 98 e6 67 11 63 e5 66 d5 55 21 ed dc b7 be 80   ...g.c.f.U!.....
+0290  0b b2 50 91 ed 9d f4 26 72 bb 80 47 3d 75 c4 b0   ..P....&r..G=u..
+02a0  c2 b5 32 aa cb 13 a8 54 a0 29 e1 7c 8a 0a d0 a4   ..2....T.).|....
+02b0  34 0d 45 0a 80 f9 96 1a 62 8c 2f 79 a6 3b b0 c0   4.E.....b./y.;..
+02c0  f4 28 60 ad fc ac bb a1 21 80 dc 92 f4 f7 4e cf   .(`.....!.....N.
+02d0  ef 29 1b 3d a7 7e 19 57 ab 54 31 f2 da 74 9b 2e   .).=.~.W.T1..t..
+02e0  b3 ec a1 72 3f 38 2c 6a ad 97 75 cc 57 53 32 ad   ...r?8,j..u.WS2.
+02f0  49 f7 a2 5d aa 38 59 ad 79 85 47 c2 ed d1 82 e0   I..].8Y.y.G.....
+0300  02 4f b6 3c 7a 55 c6 fd f5 2f b5 db 55 ba d3 c6   .O.<zU.../..U...
+0310  91 e8 bb f3 79 b4 19 4a ca b8 dc af 08 e6 f0 80   ....y..J........
+0320  ac cc 40 30 4d fa 4d 9b 79 36 e8 74 19 88 cb 83   ..@0M.M.y6.t....
+0330  f4 ac 36 e3 38 9b 78 b1 24 8f f3 07 92 64 3e 3d   ..6.8.x.$....d>=
+0340  43 f8 34 b9 05 a9 13 1c 4d fc d4 a7 83 3c 33 c5   C.4.....M....<3.
+0350  b9 de a8 2d 28 a3 59 0b e7 bf ba 36 61 8d 5e d2   ...-(.Y....6a.^.
+0360  8b df 1a f6 6a ee 31 56 41 09 04 e5 4a 3b 7a 93   ....j.1VA...J;z.
+0370  e6 35 4b 41 bd f3 fa f5 50 39 7b df 7c 24 4d 0b   .5KA....P9{.|$M.
+0380  8b 2c bf 1a 42 aa 53 61 6c 34 25 78 7a c4 7b 44   .,..B.Sal4%xz.{D
+0390  81 ee 4d f6 c3 bd d5 b4 83 af d7 94 15 d0 74 e0   ..M...........t.
+03a0  16 62 19 37 56 bc f5 aa cc 3a 62 6c c4 d7 02 25   .b.7V....:bl...%
+03b0  e4 05 86 f3 8b da 13 7b c8 16 e9 f4 0c 82 b0 a7   .......{........
+03c0  41 96 41 77 f3 d3 e5 77 32 86 69 00 08 68 a8 b0   A.Aw...w2.i..h..
+03d0  a1 c1 83 a9 10 1b 6f d6 84 b0 e3 7d c0 0c 69 f6   ......o....}..i.
+03e0  72 c0 72 06 9f ef b9 64 ce ec 76 ca 18 9e ff e7   r.r....d..v.....
+03f0  e6 48 0a ac 3a bd b2 e8 d6 64 ab 39 56 06 05 60   .H..:....d.9V..`
+0400  94 c7 d0 d3 90 d7 28 56 15 2c 8a 02 b9 89 01 7c   ......(V.,.....|
+0410  a8 6a 26 d0 d4 fb f2 ce 26 80 f6 28 e1 e6 f0 9b   .j&.....&..(....
+0420  0a 85 89 7e c8 4f d7 32 19 cb 37 19 fe 9a 96 15   ...~.O.2..7.....
+0430  26 e9 58 b7 bb f8 e3 91 22 dc 48 c3 c4 bb f1 2c   &.X.....".H....,
+0440  55 96 ee 2c 39 b9 b7 b3 37 0d 56 c1 a7 b7 6e 36   U..,9...7.V...n6
+0450  b0 1d bc 81 23 4b 75 62 2b b5 4d b5 48 73 9d c7   ....#Kub+.M.Hs..
+0460  2e 2a 13 23 4b 1f 5c 83 4f e9 80 a2 1e 83 55 fb   .*.#K.\.O.....U.
+0470  c6 55 a6 38 7a e6 52 83 d6 ff ce 48 cf 8b d4 fa   .U.8z.R....H....
+0480  3c f1 f7 43 81 83 28 4e ab d6 e5 dd 9c 2e 02 32   <..C..(N.......2
+0490  cf 59 8c e9 81 2d 0b b7 8c aa 9c 59 09 c3 f1 4a   .Y...-.....Y...J
+04a0  39 70 3c 47 5b ea 4f ca c1 33 44 d8 7f 9f d8 19   9p<G[.O..3D.....
+04b0  7f ab de 11 8b 1c 11 4a fe 19 25 15 a9 81 11 df   .......J..%.....
+04c0  5f 4e 63 3d 0a 0b b7 ff fa 4f 58 8b 7d 09 5c 26   _Nc=.....OX.}.\&
+04d0  ad 6f 13 11 a2 30 ed b8 31 ec d6 ed 36 17 50 82   .o...0..1...6.P.
+04e0  01 e7 9f a3 c4 b0 20 ed 50 98 70 2f 4a 17 d6 e3   ...... .P.p/J...
+04f0  c9 91 e3 6f b6 95 a0 d7 ff 95 dc 52 d3 f9 a8 ed   ...o.......R....
+0500  da f5 2d b7 72 9d be d0 80 26 29 f2 02 d2 3d 3a   ..-.r....&)...=:
+0510  34 d4 b0 e3 d5 3d 9a 1b ad be e4 0d 7f d9 6a 97   4....=........j.
+0520  16 13 d2 a4 13 77 e4 32 80 0f a1 42 e5 e6 40 d4   .....w.2...B..@.
+0530  6e 22 85 26 09 ea dc ff b7 56 79 7b ff b9 65 26   n".&.....Vy{..e&
+0540  72 ba e9 60 aa f3 a1 d0 1c 9c 04 3c 60 33 54 f4   r..`.......<`3T.
+0550  de 77 b7 31 14 a0 5f 31 3b c4 d0 a6 a3 53 9c 56   .w.1.._1;....S.V
+0560  79 0d 7d 76 2b 6c aa f9 15 14 a1 66 83 7f a7 eb   y.}v+l.....f....
+0570  7e 5a cb 57 56 80 66 a8 23 65 18 b0 28 2d 46 5a   ~Z.WV.f.#e..(-FZ
+0580  cb 0f 45 16 77 f4 43 63 ab a7 1b 07 55 62 d9 0f   ..E.w.Cc....Ub..
+0590  5b 74 6d f0 15 02 58 34 54 c6 c6 58 6d 08 e9 ac   [tm...X4T..Xm...
+05a0  fc e1 1d c2 fe b3 65 e7 7f 9f 30 a2 6f cb fb b1   ......e...0.o...
+05b0  71 6f 17 31 70 e3 b7 a9 85 59 ed d4 1a a1 2a 21   qo.1p....Y....*!
+05c0  36 ac 64 6b eb db e5 e2 0d a8 c0 19 df 1e b9 51   6.dk...........Q
+05d0  2b 5d 77 ff 69 bc 52 13 b2 1d da f5 9e cc 26 86   +]w.i.R.......&.
+05e0  f8 6b 22 b1 13 47 e5 74 bf 62 33 6a 39            .k"..G.t.b3j9
+No.     Time           Source                Destination           Protocol Length Info
+     30 41.644261000   66.218.84.140         192.168.81.151        TLSv1.2  99     Application Data
+
+Frame 30: 99 bytes on wire (792 bits), 99 bytes captured (792 bits) on interface 0
+Ethernet II, Src: BestItWo_01:d1:64 (00:1e:a6:01:d1:64), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 66.218.84.140 (66.218.84.140), Dst: 192.168.81.151 (192.168.81.151)
+Transmission Control Protocol, Src Port: 443 (443), Dst Port: 41328 (41328), Seq: 1452, Ack: 1, Len: 33
+Secure Sockets Layer
+
+0000  f4 4d 30 49 1e 01 00 1e a6 01 d1 64 08 00 45 00   .M0I.......d..E.
+0010  00 55 9a 43 40 00 2e 06 08 ba 42 da 54 8c c0 a8   .U.C@.....B.T...
+0020  51 97 01 bb a1 70 a4 ce 0f 11 75 7d 4d 68 80 18   Q....p....u}Mh..
+0030  01 1a 7d 2d 00 00 01 01 08 0a 4a 7d 2a e0 00 4c   ..}-......J}*..L
+0040  4c 8b 17 03 03 00 1c 37 d9 c4 ab a1 6e 66 cc cb   L......7....nf..
+0050  b6 34 7c 72 19 28 a4 a6 a9 5f 72 ca 51 09 cc 92   .4|r.(..._r.Q...
+0060  2b 72 26                                          +r&
+
+Date: 6/7/2018No.     Time           Source                Destination           Protocol Length Info
+     31 41.644264000   66.218.84.140         10.0.47.2             TLSv1.2  99     Application Data
+
+Frame 31: 99 bytes on wire (792 bits), 99 bytes captured (792 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: fa:16:3e:94:7c:0d (fa:16:3e:94:7c:0d)
+Internet Protocol Version 4, Src: 66.218.84.140 (66.218.84.140), Dst: 10.0.47.2 (10.0.47.2)
+Transmission Control Protocol, Src Port: 443 (443), Dst Port: 41328 (41328), Seq: 1452, Ack: 1, Len: 33
+Secure Sockets Layer
+
+0000  fa 16 3e 94 7c 0d f4 4d 30 49 1e 01 08 00 45 00   ..>.|..M0I....E.
+0010  00 55 9a 43 40 00 2d 06 e2 f7 42 da 54 8c 0a 00   .U.C@.-...B.T...
+0020  2f 02 01 bb a1 70 a4 ce 0f 11 75 7d 4d 68 80 18   /....p....u}Mh..
+0030  01 1a 56 6b 00 00 01 01 08 0a 4a 7d 2a e0 00 4c   ..Vk......J}*..L
+0040  4c 8b 17 03 03 00 1c 37 d9 c4 ab a1 6e 66 cc cb   L......7....nf..
+0050  b6 34 7c 72 19 28 a4 a6 a9 5f 72 ca 51 09 cc 92   .4|r.(..._r.Q...
+0060  2b 72 26                                          +r&
+No.     Time           Source                Destination           Protocol Length Info
+     32 41.644383000   10.0.47.2             66.218.84.140         TCP      66     41328→443 [ACK] Seq=1 Ack=1452 Win=840 Len=0 TSval=5044831 TSecr=1249716960
+
+Frame 32: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: fa:16:3e:94:7c:0d (fa:16:3e:94:7c:0d), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 10.0.47.2 (10.0.47.2), Dst: 66.218.84.140 (66.218.84.140)
+Transmission Control Protocol, Src Port: 41328 (41328), Dst Port: 443 (443), Seq: 1, Ack: 1452, Len: 0
+
+0000  f4 4d 30 49 1e 01 fa 16 3e 94 7c 0d 08 00 45 00   .M0I....>.|...E.
+0010  00 34 5f 15 40 00 40 06 0b 47 0a 00 2f 02 42 da   .4_.@.@..G../.B.
+0020  54 8c a1 70 01 bb 75 7d 4d 68 a4 ce 0f 11 80 10   T..p..u}Mh......
+0030  03 48 d0 8e 00 00 01 01 08 0a 00 4c fa 5f 4a 7d   .H.........L._J}
+0040  2a e0                                             *.
+No.     Time           Source                Destination           Protocol Length Info
+     33 41.644402000   192.168.81.151        66.218.84.140         TCP      66     41328→443 [ACK] Seq=1 Ack=1452 Win=840 Len=0 TSval=5044831 TSecr=1249716960
+
+Frame 33: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 66.218.84.140 (66.218.84.140)
+Transmission Control Protocol, Src Port: 41328 (41328), Dst Port: 443 (443), Seq: 1, Ack: 1452, Len: 0
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 34 5f 15 40 00 3f 06 33 09 c0 a8 51 97 42 da   .4_.@.?.3...Q.B.
+0020  54 8c a1 70 01 bb 75 7d 4d 68 a4 ce 0f 11 80 10   T..p..u}Mh......
+0030  03 48 a9 cc 00 00 01 01 08 0a 00 4c fa 5f 4a 7d   .H.........L._J}
+0040  2a e0                                             *.
+No.     Time           Source                Destination           Protocol Length Info
+     34 41.644406000   10.0.47.2             66.218.84.140         TCP      66     41328→443 [ACK] Seq=1 Ack=1485 Win=840 Len=0 TSval=5044831 TSecr=1249716960
+
+Frame 34: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: fa:16:3e:94:7c:0d (fa:16:3e:94:7c:0d), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 10.0.47.2 (10.0.47.2), Dst: 66.218.84.140 (66.218.84.140)
+Transmission Control Protocol, Src Port: 41328 (41328), Dst Port: 443 (443), Seq: 1, Ack: 1485, Len: 0
+
+0000  f4 4d 30 49 1e 01 fa 16 3e 94 7c 0d 08 00 45 00   .M0I....>.|...E.
+0010  00 34 5f 16 40 00 40 06 0b 46 0a 00 2f 02 42 da   .4_.@.@..F../.B.
+0020  54 8c a1 70 01 bb 75 7d 4d 68 a4 ce 0f 32 80 10   T..p..u}Mh...2..
+0030  03 48 d0 8e 00 00 01 01 08 0a 00 4c fa 5f 4a 7d   .H.........L._J}
+0040  2a e0                                             *.
+No.     Time           Source                Destination           Protocol Length Info
+     35 41.644408000   192.168.81.151        66.218.84.140         TCP      66     41328→443 [ACK] Seq=1 Ack=1485 Win=840 Len=0 TSval=5044831 TSecr=1249716960
+
+Frame 35: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 66.218.84.140 (66.218.84.140)
+Transmission Control Protocol, Src Port: 41328 (41328), Dst Port: 443 (443), Seq: 1, Ack: 1485, Len: 0
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 34 5f 16 40 00 3f 06 33 08 c0 a8 51 97 42 da   .4_.@.?.3...Q.B.
+0020  54 8c a1 70 01 bb 75 7d 4d 68 a4 ce 0f 32 80 10   T..p..u}Mh...2..
+0030  03 48 a9 cc 00 00 01 01 08 0a 00 4c fa 5f 4a 7d   .H.........L._J}
+0040  2a e0                                             *.
+No.     Time           Source                Destination           Protocol Length Info
+     36 41.644493000   66.218.84.140         192.168.81.151        TLSv1.2  350    Application Data
+
+Frame 36: 350 bytes on wire (2800 bits), 350 bytes captured (2800 bits) on interface 0
+Ethernet II, Src: BestItWo_01:d1:64 (00:1e:a6:01:d1:64), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 66.218.84.140 (66.218.84.140), Dst: 192.168.81.151 (192.168.81.151)
+Transmission Control Protocol, Src Port: 443 (443), Dst Port: 41328 (41328), Seq: 1485, Ack: 1, Len: 284
+Secure Sockets Layer
+
+0000  f4 4d 30 49 1e 01 00 1e a6 01 d1 64 08 00 45 00   .M0I.......d..E.
+0010  01 50 9a 44 40 00 2e 06 07 be 42 da 54 8c c0 a8   .P.D@.....B.T...
+0020  51 97 01 bb a1 70 a4 ce 0f 32 75 7d 4d 68 80 18   Q....p...2u}Mh..
+0030  01 1a 86 7b 00 00 01 01 08 0a 4a 7d 2a e0 00 4c   ...{......J}*..L
+0040  4c 8b 17 03 03 01 17 37 d9 c4 ab a1 6e 66 cd 1d   L......7....nf..
+0050  4e d3 a2 bc f1 93 11 a3 dd e8 9f cc cc a2 3a b8   N.............:.
+0060  47 dc eb 7c 77 db 69 57 d7 e5 c4 2a 47 75 2a c7   G..|w.iW...*Gu*.
+0070  28 de f2 fb 24 01 60 e9 85 49 d1 f8 ec 8d 99 b3   (...$.`..I......
+0080  40 e8 88 81 7f 10 c4 a5 83 51 b7 c2 5c 59 68 75   @........Q..\Yhu
+0090  a0 fb 07 d0 27 32 94 e3 c8 09 34 6c 16 72 70 f4   ....'2....4l.rp.
+00a0  94 6b b0 c9 17 be 43 3b 70 c4 95 c1 88 50 ef f8   .k....C;p....P..
+00b0  45 48 07 b6 2b 03 a9 95 ab bd 22 8e 32 f8 b6 2d   EH..+.....".2..-
+00c0  f9 26 66 dd d7 b4 43 23 bf 2b d8 bc 11 28 15 fa   .&f...C#.+...(..
+00d0  47 f6 6c d1 08 6e db 1f 4a 60 6c cf 24 bd 26 cd   G.l..n..J`l.$.&.
+00e0  5b d8 5c a8 fd be 1b 1c 4b cc ad 94 11 4b 56 5b   [.\.....K....KV[
+00f0  af 0f 8f 14 35 a6 74 60 d5 fd 3e 1d ff f3 6e ea   ....5.t`..>...n.
+0100  1e e4 98 f0 8b fc b1 ad f7 38 2f a4 4d 19 47 c3   .........8/.M.G.
+0110  e6 a8 9a 31 c6 d4 a2 b5 1d 40 f4 35 66 85 d6 a5   ...1.....@.5f...
+0120  17 d0 26 06 88 bc 25 bf c9 4a 0d 1d e4 fa b1 b6   ..&...%..J......
+0130  4f 5c b5 75 03 e2 63 d7 ca 42 a3 1b 31 aa 26 75   O\.u..c..B..1.&u
+0140  e9 5b a9 ee ec 04 48 27 3b 6e 52 c5 31 58 93 98   .[....H';nR.1X..
+0150  78 e2 8c bf f9 f9 80 7f b7 5a cb e9 67 03         x........Z..g.
+No.     Time           Source                Destination           Protocol Length Info
+     37 41.644498000   66.218.84.140         10.0.47.2             TLSv1.2  350    Application Data
+
+Frame 37: 350 bytes on wire (2800 bits), 350 bytes captured (2800 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: fa:16:3e:94:7c:0d (fa:16:3e:94:7c:0d)
+Internet Protocol Version 4, Src: 66.218.84.140 (66.218.84.140), Dst: 10.0.47.2 (10.0.47.2)
+Transmission Control Protocol, Src Port: 443 (443), Dst Port: 41328 (41328), Seq: 1485, Ack: 1, Len: 284
+Secure Sockets Layer
+
+0000  fa 16 3e 94 7c 0d f4 4d 30 49 1e 01 08 00 45 00   ..>.|..M0I....E.
+0010  01 50 9a 44 40 00 2d 06 e1 fb 42 da 54 8c 0a 00   .P.D@.-...B.T...
+0020  2f 02 01 bb a1 70 a4 ce 0f 32 75 7d 4d 68 80 18   /....p...2u}Mh..
+0030  01 1a 5f b9 00 00 01 01 08 0a 4a 7d 2a e0 00 4c   .._.......J}*..L
+0040  4c 8b 17 03 03 01 17 37 d9 c4 ab a1 6e 66 cd 1d   L......7....nf..
+0050  4e d3 a2 bc f1 93 11 a3 dd e8 9f cc cc a2 3a b8   N.............:.
+0060  47 dc eb 7c 77 db 69 57 d7 e5 c4 2a 47 75 2a c7   G..|w.iW...*Gu*.
+0070  28 de f2 fb 24 01 60 e9 85 49 d1 f8 ec 8d 99 b3   (...$.`..I......
+0080  40 e8 88 81 7f 10 c4 a5 83 51 b7 c2 5c 59 68 75   @........Q..\Yhu
+0090  a0 fb 07 d0 27 32 94 e3 c8 09 34 6c 16 72 70 f4   ....'2....4l.rp.
+00a0  94 6b b0 c9 17 be 43 3b 70 c4 95 c1 88 50 ef f8   .k....C;p....P..
+00b0  45 48 07 b6 2b 03 a9 95 ab bd 22 8e 32 f8 b6 2d   EH..+.....".2..-
+00c0  f9 26 66 dd d7 b4 43 23 bf 2b d8 bc 11 28 15 fa   .&f...C#.+...(..
+00d0  47 f6 6c d1 08 6e db 1f 4a 60 6c cf 24 bd 26 cd   G.l..n..J`l.$.&.
+00e0  5b d8 5c a8 fd be 1b 1c 4b cc ad 94 11 4b 56 5b   [.\.....K....KV[
+00f0  af 0f 8f 14 35 a6 74 60 d5 fd 3e 1d ff f3 6e ea   ....5.t`..>...n.
+0100  1e e4 98 f0 8b fc b1 ad f7 38 2f a4 4d 19 47 c3   .........8/.M.G.
+0110  e6 a8 9a 31 c6 d4 a2 b5 1d 40 f4 35 66 85 d6 a5   ...1.....@.5f...
+0120  17 d0 26 06 88 bc 25 bf c9 4a 0d 1d e4 fa b1 b6   ..&...%..J......
+0130  4f 5c b5 75 03 e2 63 d7 ca 42 a3 1b 31 aa 26 75   O\.u..c..B..1.&u
+0140  e9 5b a9 ee ec 04 48 27 3b 6e 52 c5 31 58 93 98   .[....H';nR.1X..
+0150  78 e2 8c bf f9 f9 80 7f b7 5a cb e9 67 03         x........Z..g.
+No.     Time           Source                Destination           Protocol Length Info
+     38 41.644525000   10.0.47.2             66.218.84.140         TCP      66     41328→443 [ACK] Seq=1 Ack=1769 Win=863 Len=0 TSval=5044831 TSecr=1249716960
+
+Frame 38: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: fa:16:3e:94:7c:0d (fa:16:3e:94:7c:0d), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 10.0.47.2 (10.0.47.2), Dst: 66.218.84.140 (66.218.84.140)
+Transmission Control Protocol, Src Port: 41328 (41328), Dst Port: 443 (443), Seq: 1, Ack: 1769, Len: 0
+
+0000  f4 4d 30 49 1e 01 fa 16 3e 94 7c 0d 08 00 45 00   .M0I....>.|...E.
+0010  00 34 5f 17 40 00 40 06 0b 45 0a 00 2f 02 42 da   .4_.@.@..E../.B.
+0020  54 8c a1 70 01 bb 75 7d 4d 68 a4 ce 10 4e 80 10   T..p..u}Mh...N..
+0030  03 5f d0 8e 00 00 01 01 08 0a 00 4c fa 5f 4a 7d   ._.........L._J}
+0040  2a e0                                             *.
+No.     Time           Source                Destination           Protocol Length Info
+     39 41.644528000   192.168.81.151        66.218.84.140         TCP      66     41328→443 [ACK] Seq=1 Ack=1769 Win=863 Len=0 TSval=5044831 TSecr=1249716960
+
+Frame 39: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 66.218.84.140 (66.218.84.140)
+Transmission Control Protocol, Src Port: 41328 (41328), Dst Port: 443 (443), Seq: 1, Ack: 1769, Len: 0
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 34 5f 17 40 00 3f 06 33 07 c0 a8 51 97 42 da   .4_.@.?.3...Q.B.
+0020  54 8c a1 70 01 bb 75 7d 4d 68 a4 ce 10 4e 80 10   T..p..u}Mh...N..
+0030  03 5f a9 cc 00 00 01 01 08 0a 00 4c fa 5f 4a 7d   ._.........L._J}
+0040  2a e0                                             *.
+
+Date: 7/7/2018No.     Time           Source                Destination           Protocol Length Info
+     40 41.644593000   66.218.84.140         192.168.81.151        TLSv1.2  102    Application Data
+
+Frame 40: 102 bytes on wire (816 bits), 102 bytes captured (816 bits) on interface 0
+Ethernet II, Src: BestItWo_01:d1:64 (00:1e:a6:01:d1:64), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 66.218.84.140 (66.218.84.140), Dst: 192.168.81.151 (192.168.81.151)
+Transmission Control Protocol, Src Port: 443 (443), Dst Port: 41328 (41328), Seq: 1769, Ack: 1, Len: 36
+Secure Sockets Layer
+
+0000  f4 4d 30 49 1e 01 00 1e a6 01 d1 64 08 00 45 00   .M0I.......d..E.
+0010  00 58 9a 45 40 00 2e 06 08 b5 42 da 54 8c c0 a8   .X.E@.....B.T...
+0020  51 97 01 bb a1 70 a4 ce 10 4e 75 7d 4d 68 80 18   Q....p...Nu}Mh..
+0030  01 1a 9e df 00 00 01 01 08 0a 4a 7d 2a e0 00 4c   ..........J}*..L
+0040  4c 8b 17 03 03 00 1f 37 d9 c4 ab a1 6e 66 ce 96   L......7....nf..
+0050  34 5b ce 8c 15 c9 be 19 51 df 7b 9d 4b ae 64 15   4[......Q.{.K.d.
+0060  f7 4a ed 11 1b 89                                 .J....
+No.     Time           Source                Destination           Protocol Length Info
+     41 41.644597000   66.218.84.140         10.0.47.2             TLSv1.2  102    Application Data
+
+Frame 41: 102 bytes on wire (816 bits), 102 bytes captured (816 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: fa:16:3e:94:7c:0d (fa:16:3e:94:7c:0d)
+Internet Protocol Version 4, Src: 66.218.84.140 (66.218.84.140), Dst: 10.0.47.2 (10.0.47.2)
+Transmission Control Protocol, Src Port: 443 (443), Dst Port: 41328 (41328), Seq: 1769, Ack: 1, Len: 36
+Secure Sockets Layer
+
+0000  fa 16 3e 94 7c 0d f4 4d 30 49 1e 01 08 00 45 00   ..>.|..M0I....E.
+0010  00 58 9a 45 40 00 2d 06 e2 f2 42 da 54 8c 0a 00   .X.E@.-...B.T...
+0020  2f 02 01 bb a1 70 a4 ce 10 4e 75 7d 4d 68 80 18   /....p...Nu}Mh..
+0030  01 1a 78 1d 00 00 01 01 08 0a 4a 7d 2a e0 00 4c   ..x.......J}*..L
+0040  4c 8b 17 03 03 00 1f 37 d9 c4 ab a1 6e 66 ce 96   L......7....nf..
+0050  34 5b ce 8c 15 c9 be 19 51 df 7b 9d 4b ae 64 15   4[......Q.{.K.d.
+0060  f7 4a ed 11 1b 89                                 .J....
+No.     Time           Source                Destination           Protocol Length Info
+     42 41.644698000   10.0.47.2             66.218.84.140         TCP      66     41328→443 [ACK] Seq=1 Ack=1805 Win=863 Len=0 TSval=5044831 TSecr=1249716960
+
+Frame 42: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: fa:16:3e:94:7c:0d (fa:16:3e:94:7c:0d), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 10.0.47.2 (10.0.47.2), Dst: 66.218.84.140 (66.218.84.140)
+Transmission Control Protocol, Src Port: 41328 (41328), Dst Port: 443 (443), Seq: 1, Ack: 1805, Len: 0
+
+0000  f4 4d 30 49 1e 01 fa 16 3e 94 7c 0d 08 00 45 00   .M0I....>.|...E.
+0010  00 34 5f 18 40 00 40 06 0b 44 0a 00 2f 02 42 da   .4_.@.@..D../.B.
+0020  54 8c a1 70 01 bb 75 7d 4d 68 a4 ce 10 72 80 10   T..p..u}Mh...r..
+0030  03 5f d0 8e 00 00 01 01 08 0a 00 4c fa 5f 4a 7d   ._.........L._J}
+0040  2a e0                                             *.
+No.     Time           Source                Destination           Protocol Length Info
+     43 41.644712000   192.168.81.151        66.218.84.140         TCP      66     41328→443 [ACK] Seq=1 Ack=1805 Win=863 Len=0 TSval=5044831 TSecr=1249716960
+
+Frame 43: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 66.218.84.140 (66.218.84.140)
+Transmission Control Protocol, Src Port: 41328 (41328), Dst Port: 443 (443), Seq: 1, Ack: 1805, Len: 0
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 34 5f 18 40 00 3f 06 33 06 c0 a8 51 97 42 da   .4_.@.?.3...Q.B.
+0020  54 8c a1 70 01 bb 75 7d 4d 68 a4 ce 10 72 80 10   T..p..u}Mh...r..
+0030  03 5f a9 cc 00 00 01 01 08 0a 00 4c fa 5f 4a 7d   ._.........L._J}
+0040  2a e0                                             *.
+No.     Time           Source                Destination           Protocol Length Info
+     44 43.653093000   10.0.47.2             10.0.47.1             DNS      75     Standard query 0x5227  A comet.yahoo.com
+
+Frame 44: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: fa:16:3e:94:7c:0d (fa:16:3e:94:7c:0d), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 10.0.47.2 (10.0.47.2), Dst: 10.0.47.1 (10.0.47.1)
+User Datagram Protocol, Src Port: 30332 (30332), Dst Port: 53 (53)
+Domain Name System (query)
+
+0000  f4 4d 30 49 1e 01 fa 16 3e 94 7c 0d 08 00 45 00   .M0I....>.|...E.
+0010  00 3d bf da 40 00 40 11 08 d3 0a 00 2f 02 0a 00   .=..@.@...../...
+0020  2f 01 76 7c 00 35 00 29 72 3d 52 27 01 00 00 01   /.v|.5.)r=R'....
+0030  00 00 00 00 00 00 05 63 6f 6d 65 74 05 79 61 68   .......comet.yah
+0040  6f 6f 03 63 6f 6d 00 00 01 00 01                  oo.com.....
+No.     Time           Source                Destination           Protocol Length Info
+     45 43.653130000   10.0.47.2             10.0.47.1             DNS      75     Standard query 0x262e  AAAA comet.yahoo.com
+
+Frame 45: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: fa:16:3e:94:7c:0d (fa:16:3e:94:7c:0d), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 10.0.47.2 (10.0.47.2), Dst: 10.0.47.1 (10.0.47.1)
+User Datagram Protocol, Src Port: 33011 (33011), Dst Port: 53 (53)
+Domain Name System (query)
+
+0000  f4 4d 30 49 1e 01 fa 16 3e 94 7c 0d 08 00 45 00   .M0I....>.|...E.
+0010  00 3d bf db 40 00 40 11 08 d2 0a 00 2f 02 0a 00   .=..@.@...../...
+0020  2f 01 80 f3 00 35 00 29 72 3d 26 2e 01 00 00 01   /....5.)r=&.....
+0030  00 00 00 00 00 00 05 63 6f 6d 65 74 05 79 61 68   .......comet.yah
+0040  6f 6f 03 63 6f 6d 00 00 1c 00 01                  oo.com.....
+No.     Time           Source                Destination           Protocol Length Info
+     46 43.653291000   192.168.81.151        192.168.81.101        DNS      75     Standard query 0x656f  A comet.yahoo.com
+
+Frame 46: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 192.168.81.101 (192.168.81.101)
+User Datagram Protocol, Src Port: 12852 (12852), Dst Port: 53 (53)
+Domain Name System (query)
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 3d a2 02 40 00 40 11 74 60 c0 a8 51 97 c0 a8   .=..@.@.t`..Q...
+0020  51 65 32 34 00 35 00 29 24 88 65 6f 01 00 00 01   Qe24.5.)$.eo....
+0030  00 00 00 00 00 00 05 63 6f 6d 65 74 05 79 61 68   .......comet.yah
+0040  6f 6f 03 63 6f 6d 00 00 01 00 01                  oo.com.....
+No.     Time           Source                Destination           Protocol Length Info
+     47 43.653315000   192.168.81.151        192.168.81.101        DNS      75     Standard query 0x3624  AAAA comet.yahoo.com
+
+Frame 47: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 192.168.81.101 (192.168.81.101)
+User Datagram Protocol, Src Port: 6178 (6178), Dst Port: 53 (53)
+Domain Name System (query)
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  00 3d a2 03 40 00 40 11 74 5f c0 a8 51 97 c0 a8   .=..@.@.t_..Q...
+0020  51 65 18 22 00 35 00 29 24 88 36 24 01 00 00 01   Qe.".5.)$.6$....
+0030  00 00 00 00 00 00 05 63 6f 6d 65 74 05 79 61 68   .......comet.yah
+0040  6f 6f 03 63 6f 6d 00 00 1c 00 01                  oo.com.....
+No.     Time           Source                Destination           Protocol Length Info
+     48 43.653708000   10.0.47.2             66.218.84.140         TLSv1.2  856    Application Data
+
+Frame 48: 856 bytes on wire (6848 bits), 856 bytes captured (6848 bits) on interface 0
+Ethernet II, Src: fa:16:3e:94:7c:0d (fa:16:3e:94:7c:0d), Dst: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01)
+Internet Protocol Version 4, Src: 10.0.47.2 (10.0.47.2), Dst: 66.218.84.140 (66.218.84.140)
+Transmission Control Protocol, Src Port: 41328 (41328), Dst Port: 443 (443), Seq: 1, Ack: 1805, Len: 790
+Secure Sockets Layer
+
+0000  f4 4d 30 49 1e 01 fa 16 3e 94 7c 0d 08 00 45 00   .M0I....>.|...E.
+0010  03 4a 5f 19 40 00 40 06 08 2d 0a 00 2f 02 42 da   .J_.@.@..-../.B.
+0020  54 8c a1 70 01 bb 75 7d 4d 68 a4 ce 10 72 80 18   T..p..u}Mh...r..
+0030  03 5f d3 a4 00 00 01 01 08 0a 00 4c fc 55 4a 7d   ._.........L.UJ}
+0040  2a e0 17 03 03 03 11 00 00 00 00 00 00 00 0d 9c   *...............
+0050  33 c8 dc 89 7e 24 dd 01 94 21 8e 27 25 71 d7 3d   3...~$...!.'%q.=
+0060  fa 27 0d e1 69 27 6b f6 90 d1 24 28 d9 64 40 0c   .'..i'k...$(.d@.
+0070  cd 06 b7 79 95 2d 43 10 5d e6 35 c8 9c 85 71 af   ...y.-C.].5...q.
+0080  35 d8 74 5e 55 52 8a 3e f5 ac 4d e0 09 2b 4f c2   5.t^UR.>..M..+O.
+0090  67 ec 44 ce 0a 87 20 3a d4 d6 16 58 21 6d 84 da   g.D... :...X!m..
+00a0  02 10 eb 89 ea 8c 07 f2 9d 3e 54 4d 89 85 9f 18   .........>TM....
+00b0  d4 9a 37 88 79 96 7e 8f 9b 6d 9a ad f0 6a 1a a8   ..7.y.~..m...j..
+00c0  f2 93 05 ff 91 14 1c 6d cc 09 24 fb e0 9f c9 63   .......m..$....c
+00d0  f0 9f 3d 22 36 c1 e6 3e 42 54 9a 65 74 cd c1 14   ..="6..>BT.et...
+00e0  7c e9 15 23 c7 68 84 e5 25 9c fa 45 fa 7a 28 50   |..#.h..%..E.z(P
+00f0  1b 84 73 fc a3 15 e7 54 bf db e3 8f d7 3f d9 75   ..s....T.....?.u
+0100  29 5c 5a d7 e4 64 91 af da ac 57 06 ff b9 c0 ef   )\Z..d....W.....
+0110  d3 a2 f6 38 9a 95 9d 8c 5f 52 c3 fc 26 5c 59 0d   ...8...._R..&\Y.
+0120  88 85 86 2b 24 f6 4d c9 a2 13 89 0e 24 d2 1d a3   ...+$.M.....$...
+0130  66 81 8c bb f8 7f 57 d4 a4 19 eb 6c ef 97 48 b2   f.....W....l..H.
+0140  ff bb a4 9f 8f fa c0 00 a9 06 b4 55 4c 28 1f 4c   ...........UL(.L
+0150  4e 73 d9 61 c5 d5 b6 73 98 eb 7b e3 cf 63 6c 31   Ns.a...s..{..cl1
+0160  2f 5a 3a 3c 67 6c 77 cb cd 95 3d be cc 89 e3 50   /Z:<glw...=....P
+0170  24 02 ac 88 93 36 ff 03 fb 0b 7b 1f c6 c0 f4 e6   $....6....{.....
+0180  95 b1 a4 7a 0a 5d 1c fd a9 0b 48 da f8 1f 89 78   ...z.]....H....x
+0190  62 28 a9 df 4e e2 09 ef a2 71 57 b0 ab 8f d6 3e   b(..N....qW....>
+01a0  f7 00 d6 d7 8e b1 3f 67 98 03 15 5d 7d 06 e3 da   ......?g...]}...
+01b0  95 77 66 fc 9e 83 ae 5d 08 d2 0e 76 c4 98 2f ca   .wf....]...v../.
+01c0  c3 5a 85 c5 d4 f9 bd 03 cd 33 d7 af 0d b7 09 93   .Z.......3......
+01d0  62 79 4a dd bf 2f 2c f9 d6 de cd 1a a4 97 e3 51   byJ../,........Q
+01e0  35 4c 48 29 87 43 9d bf 59 f5 4f 14 60 b4 48 7e   5LH).C..Y.O.`.H~
+01f0  42 d3 e7 eb 60 ae 98 95 76 15 83 25 14 93 8e d1   B...`...v..%....
+0200  08 4c 03 5f 95 4c 1a 83 fb ab 0b f9 0a a9 88 cd   .L._.L..........
+0210  84 36 33 71 b6 db 7f fa 70 69 5c 0a cd b0 d5 de   .63q....pi\.....
+0220  5d b5 9e db cf df 35 5d ea 4f 17 05 d3 a3 35 dc   ].....5].O....5.
+0230  92 e5 52 85 a9 dc 1b 2f a6 72 a3 a4 92 4e 3c 3e   ..R..../.r...N<>
+0240  6e 1f 6c 99 aa b3 a0 ba 12 71 e4 c5 b7 31 d8 57   n.l......q...1.W
+0250  4e d8 e3 ea 3c 99 cf 6a 7b eb 47 54 e0 3c d1 38   N...<..j{.GT.<.8
+0260  f6 03 42 b9 b3 a6 b4 f8 d7 0d 8c 11 89 bd 58 5f   ..B...........X_
+0270  01 65 59 79 69 de 4d 0a 5e d7 30 a8 47 66 d7 db   .eYyi.M.^.0.Gf..
+0280  c0 31 01 3d 34 92 f7 dc 9c 5f af d3 de 55 5d 5c   .1.=4...._...U]\
+0290  c8 68 bc 13 88 37 4c f8 ed e5 0d e9 82 e8 d9 c6   .h...7L.........
+02a0  89 f2 07 41 2f 88 1f 5c 46 f9 e1 ef 12 47 18 db   ...A/..\F....G..
+02b0  15 50 2c 47 38 9a 90 64 e5 3e 03 83 f0 3c 3c 24   .P,G8..d.>...<<$
+02c0  0c cd 40 9d 0e dc 58 ce 9b 8c c3 61 bd 9e f5 49   ..@...X....a...I
+02d0  b2 fc 6b 19 3a ec b2 15 7a 06 44 9a 56 59 d8 56   ..k.:...z.D.VY.V
+02e0  7e 93 3c 7a ff 07 ef fd 35 8a 5a cf a7 b2 51 f9   ~.<z....5.Z...Q.
+02f0  79 d9 76 40 61 0d 6e 73 8d 7c 15 69 86 47 b5 56   y.v@a.ns.|.i.G.V
+0300  e8 21 8c 0a fb b5 ed cc e6 8c 27 d2 33 09 6d 53   .!........'.3.mS
+0310  ea a9 47 c0 8f ac b6 93 35 31 5c 6d 80 3d e3 f7   ..G.....51\m.=..
+0320  32 29 54 a2 72 ea 45 d0 53 d8 28 8f fb 40 d8 53   2)T.r.E.S.(..@.S
+0330  a9 54 86 13 63 0f d8 ae 8b 99 79 9e e2 ed a7 41   .T..c.....y....A
+0340  75 23 0d 72 87 b4 bd 3f 67 c2 8a e2 74 93 f7 4a   u#.r...?g...t..J
+0350  96 1b 64 50 8a 23 21 d6                           ..dP.#!.
+No.     Time           Source                Destination           Protocol Length Info
+     49 43.653731000   192.168.81.151        66.218.84.140         TLSv1.2  856    Application Data
+
+Frame 49: 856 bytes on wire (6848 bits), 856 bytes captured (6848 bits) on interface 0
+Ethernet II, Src: f4:4d:30:49:1e:01 (f4:4d:30:49:1e:01), Dst: BestItWo_01:d1:64 (00:1e:a6:01:d1:64)
+Internet Protocol Version 4, Src: 192.168.81.151 (192.168.81.151), Dst: 66.218.84.140 (66.218.84.140)
+Transmission Control Protocol, Src Port: 41328 (41328), Dst Port: 443 (443), Seq: 1, Ack: 1805, Len: 790
+Secure Sockets Layer
+
+0000  00 1e a6 01 d1 64 f4 4d 30 49 1e 01 08 00 45 00   .....d.M0I....E.
+0010  03 4a 5f 19 40 00 3f 06 2f ef c0 a8 51 97 42 da   .J_.@.?./...Q.B.
+0020  54 8c a1 70 01 bb 75 7d 4d 68 a4 ce 10 72 80 18   T..p..u}Mh...r..
+0030  03 5f ac e2 00 00 01 01 08 0a 00 4c fc 55 4a 7d   ._.........L.UJ}
+0040  2a e0 17 03 03 03 11 00 00 00 00 00 00 00 0d 9c   *...............
+0050  33 c8 dc 89 7e 24 dd 01 94 21 8e 27 25 71 d7 3d   3...~$...!.'%q.=
+0060  fa 27 0d e1 69 27 6b f6 90 d1 24 28 d9 64 40 0c   .'..i'k...$(.d@.
+0070  cd 06 b7 79 95 2d 43 10 5d e6 35 c8 9c 85 71 af   ...y.-C.].5...q.
+0080  35 d8 74 5e 55 52 8a 3e f5 ac 4d e0 09 2b 4f c2   5.t^UR.>..M..+O.
+0090  67 ec 44 ce 0a 87 20 3a d4 d6 16 58 21 6d 84 da   g.D... :...X!m..
+00a0  02 10 eb 89 ea 8c 07 f2 9d 3e 54 4d 89 85 9f 18   .........>TM....
+00b0  d4 9a 37 88 79 96 7e 8f 9b 6d 9a ad f0 6a 1a a8   ..7.y.~..m...j..
+00c0  f2 93 05 ff 91 14 1c 6d cc 09 24 fb e0 9f c9 63   .......m..$....c
+00d0  f0 9f 3d 22 36 c1 e6 3e 42 54 9a 65 74 cd c1 14   ..="6..>BT.et...
+00e0  7c e9 15 23 c7 68 84 e5 25 9c fa 45 fa 7a 28 50   |..#.h..%..E.z(P
+00f0  1b 84 73 fc a3 15 e7 54 bf db e3 8f d7 3f d9 75   ..s....T.....?.u
+0100  29 5c 5a d7 e4 64 91 af da ac 57 06 ff b9 c0 ef   )\Z..d....W.....
+0110  d3 a2 f6 38 9a 95 9d 8c 5f 52 c3 fc 26 5c 59 0d   ...8...._R..&\Y.
+0120  88 85 86 2b 24 f6 4d c9 a2 13 89 0e 24 d2 1d a3   ...+$.M.....$...
+0130  66 81 8c bb f8 7f 57 d4 a4 19 eb 6c ef 97 48 b2   f.....W....l..H.
+0140  ff bb a4 9f 8f fa c0 00 a9 06 b4 55 4c 28 1f 4c   ...........UL(.L
+0150  4e 73 d9 61 c5 d5 b6 73 98 eb 7b e3 cf 63 6c 31   Ns.a...s..{..cl1
+0160  2f 5a 3a 3c 67 6c 77 cb cd 95 3d be cc 89 e3 50   /Z:<glw...=....P
+0170  24 02 ac 88 93 36 ff 03 fb 0b 7b 1f c6 c0 f4 e6   $....6....{.....
+0180  95 b1 a4 7a 0a 5d 1c fd a9 0b 48 da f8 1f 89 78   ...z.]....H....x
+0190  62 28 a9 df 4e e2 09 ef a2 71 57 b0 ab 8f d6 3e   b(..N....qW....>
+01a0  f7 00 d6 d7 8e b1 3f 67 98 03 15 5d 7d 06 e3 da   ......?g...]}...
+01b0  95 77 66 fc 9e 83 ae 5d 08 d2 0e 76 c4 98 2f ca   .wf....]...v../.
+01c0  c3 5a 85 c5 d4 f9 bd 03 cd 33 d7 af 0d b7 09 93   .Z.......3......
+01d0  62 79 4a dd bf 2f 2c f9 d6 de cd 1a a4 97 e3 51   byJ../,........Q
+01e0  35 4c 48 29 87 43 9d bf 59 f5 4f 14 60 b4 48 7e   5LH).C..Y.O.`.H~
+01f0  42 d3 e7 eb 60 ae 98 95 76 15 83 25 14 93 8e d1   B...`...v..%....
+0200  08 4c 03 5f 95 4c 1a 83 fb ab 0b f9 0a a9 88 cd   .L._.L..........
+0210  84 36 33 71 b6 db 7f fa 70 69 5c 0a cd b0 d5 de   .63q....pi\.....
+0220  5d b5 9e db cf df 35 5d ea 4f 17 05 d3 a3 35 dc   ].....5].O....5.
+0230  92 e5 52 85 a9 dc 1b 2f a6 72 a3 a4 92 4e 3c 3e   ..R..../.r...N<>
+0240  6e 1f 6c 99 aa b3 a0 ba 12 71 e4 c5 b7 31 d8 57   n.l......q...1.W
+0250  4e d8 e3 ea 3c 99 cf 6a 7b eb 47 54 e0 3c d1 38   N...<..j{.GT.<.8
+0260  f6 03 42 b9 b3 a6 b4 f8 d7 0d 8c 11 89 bd 58 5f   ..B...........X_
+0270  01 65 59 79 69 de 4d 0a 5e d7 30 a8 47 66 d7 db   .eYyi.M.^.0.Gf..
+0280  c0 31 01 3d 34 92 f7 dc 9c 5f af d3 de 55 5d 5c   .1.=4...._...U]\
+0290  c8 68 bc 13 88 37 4c f8 ed e5 0d e9 82 e8 d9 c6   .h...7L.........
+02a0  89 f2 07 41 2f 88 1f 5c 46 f9 e1 ef 12 47 18 db   ...A/..\F....G..
+02b0  15 50 2c 47 38 9a 90 64 e5 3e 03 83 f0 3c 3c 24   .P,G8..d.>...<<$
+02c0  0c cd 40 9d 0e dc 58 ce 9b 8c c3 61 bd 9e f5 49   ..@...X....a...I
+02d0  b2 fc 6b 19 3a ec b2 15 7a 06 44 9a 56 59 d8 56   ..k.:...z.D.VY.V
+02e0  7e 93 3c 7a ff 07 ef fd 35 8a 5a cf a7 b2 51 f9   ~.<z....5.Z...Q.
+02f0  79 d9 76 40 61 0d 6e 73 8d 7c 15 69 86 47 b5 56   y.v@a.ns.|.i.G.V
+0300  e8 21 8c 0a fb b5 ed cc e6 8c 27 d2 33 09 6d 53   .!........'.3.mS
+0310  ea a9 47 c0 8f ac b6 93 35 31 5c 6d 80 3d e3 f7   ..G.....51\m.=..
+0320  32 29 54 a2 72 ea 45 d0 53 d8 28 8f fb 40 d8 53   2)T.r.E.S.(..@.S
+0330  a9 54 86 13 63 0f d8 ae 8b 99 79 9e e2 ed a7 41   .T..c.....y....A
+0340  75 23 0d 72 87 b4 bd 3f 67 c2 8a e2 74 93 f7 4a   u#.r...?g...t..J
+0350  96 1b 64 50 8a 23 21 d6                           ..dP.#!.
